@@ -47,12 +47,6 @@ DB_USERNAME=your_username
 DB_PASSWORD=your_password
 ```
 
-Generate the application key:
-
-```bash
-php artisan key:generate
-```
-
 ### Database
 
 Run migrations and seed the sample data:
